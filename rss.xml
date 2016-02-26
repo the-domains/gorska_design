@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[gorska_design]]></title>
+        <description><![CDATA[gorska_design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 17:32:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefinedf7c3bd9c-35ba-4eca-b792-84d39ee29b58/index.html</link>
+            <guid isPermaLink="false">f7c3bd9c-35ba-4eca-b792-84d39ee29b58</guid>
+            <pubDate>Fri, 26 Feb 2016 17:20:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
