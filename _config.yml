@@ -1,0 +1,28 @@
+name: gorska_design
+favicon: null
+layout_spectrum: 0.9088580198585987
+typography_spectrum: 0.3589454391039908
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.026889262488111854
+  lightness: 0.38772522285580635
+  saturation: 0.642775614047423
+  rhythmicContrast: 0.284058861900121
+purpose: []
